@@ -1,0 +1,23 @@
+{
+  "configVersion": 2,
+  "packages": [
+    {
+      "name": "collection",
+      "rootUri": "file:///C:/Users/USER/AppData/Local/Pub/Cache/hosted/pub.dev/collection-1.19.0",
+      "packageUri": "lib/",
+      "languageVersion": "3.4"
+    },
+    {
+      "name": "dijkstra_algorithm",
+      "rootUri": "../",
+      "packageUri": "lib/",
+      "languageVersion": "2.12"
+    }
+  ],
+  "generated": "2024-10-04T10:39:12.122172Z",
+  "generator": "pub",
+  "generatorVersion": "3.5.1",
+  "flutterRoot": "file:///C:/Users/USER/Documents/flutter_windows_3.22.1-stable/flutter",
+  "flutterVersion": "3.24.1",
+  "pubCache": "file:///C:/Users/USER/AppData/Local/Pub/Cache"
+}
